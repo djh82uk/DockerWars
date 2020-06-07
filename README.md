@@ -29,4 +29,4 @@ The containers themselves could be deployed to Azure, AWS, GCP, OCI, at home, la
 
 Potential Architecture (Rough Copy)
 
-![alt text](http://url/to/img.png)
+![Potential Architecture](https://github.com/djh82uk/DockerWars/blob/master/DockerWarsArchitecture.png)
