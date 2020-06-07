@@ -26,3 +26,7 @@ The aim is to meet the goal of promoting the use of modern technologies, having 
 Ideally the open source project could call on vendors such as Digital Ocean or Docker to provide short term discounts etc. (Need to check whether this is allowed within the terms of Azure starter credit, or OCI always free services.)
 
 The containers themselves could be deployed to Azure, AWS, GCP, OCI, at home, laptops raspberry pi's.
+
+Potential Architecture (Rough Copy)
+
+![alt text](http://url/to/img.png)
